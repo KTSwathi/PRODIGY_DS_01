@@ -1,0 +1,3 @@
+### Project Overview
+
+Leveraging the World Bank's dataset on total population across various countries, I employed Python and its libraries, including pandas for data manipulation and matplotlib for data visualization. A bar chart was created to depict population distributions among the top countries, providing a clear and insightful view of global demographic trends. Key achievements include efficiently processing and cleaning the dataset to extract relevant information, and creating a visualization that effectively highlights population disparities across countries. This project significantly strengthened my skills in Python programming, data manipulation, and visualization techniques, laying a solid foundation for future data-driven projects.
